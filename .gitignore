@@ -1,0 +1,11 @@
+# Ignore installed packages
+node_modules/
+
+# Ignore environment variables file (contains secrets like DB URI, JWT secret)
+.env
+
+# Ignore VS Code settings (your personal editor config)
+.vscode/
+
+# Ignore macOS system file
+.DS_Store
